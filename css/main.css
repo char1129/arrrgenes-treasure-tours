@@ -23,7 +23,7 @@ html {
 }
 
 a:focus {
-  outline: 3px solid #000;
+  outline: 3px solid #bea59b;
 }
 
 .nav a {
